@@ -16,6 +16,7 @@ class first{
                 System.out.print(c+" ");
             }
         }
+
 public class function{
             public static void main() {
                 System.out.println("Enter your First name");
