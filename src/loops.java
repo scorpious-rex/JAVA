@@ -27,13 +27,13 @@
 //}
 
 
-//public class loops {
-//    static void main() {
-//        int a=0;
-//        do{
-//            System.out.println(a);
-//
-//            a++;
-//        }while(a<=10);
-//    }
-//}
+public class loops {
+    static void main() {
+        int a=0;
+        do{
+            System.out.println(a);
+
+            a++;
+        }while(a<=10);
+    }
+}
